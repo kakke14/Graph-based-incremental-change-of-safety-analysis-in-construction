@@ -668,3 +668,16 @@ product(fall_space, 667).
 product(fall_space, 668).
 product(fall_space, 669).
 product(fall_space, 670).
+product(fall_hazard_space, 671).
+product(fall_hazard_space, 672).
+product(fall_hazard_space, 673).
+product(fall_hazard_space, 674).
+product(fall_hazard_space, 675).
+product(fall_hazard_space, 676).
+product(fall_hazard_space, 677).
+product(fall_hazard_space, 678).
+product(fall_hazard_space, 679).
+product(fall_hazard_space, 680).
+product(fall_hazard_space, 681).
+product(fall_hazard_space, 682).
+product(fall_hazard_space, 683).
